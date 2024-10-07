@@ -1,0 +1,9 @@
+.idea
+
+.env
+.venv
+
+__pycache__
+.python_packages
+
+responses
