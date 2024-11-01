@@ -8,8 +8,4 @@ __pycache__
 
 responses
 
-# ignore all unnecessary files
-/draw_locations/location_trace.html
-/draw_locations/map.html
-/draw_locations/scatter_plot.png
-/llamaIndex/.ipynb_checkpoints/knowledge_graph-checkpoint.ipynb
+data
